@@ -18,8 +18,17 @@ Este proyecto es una aplicación web sencilla para realizar un **sorteo de amigo
 3. Cuando todos los nombres estén en la lista, presiona "Sortear".
 4. El sistema elegirá aleatoriamente un amigo secreto y lo mostrará en pantalla.
 
-## 📸 Capturas de pantalla
-_(Agrega aquí imágenes de tu proyecto si lo deseas)_
+## 📸 Capturas de pantalla 
+
+### 1️⃣ Agregando nombres  
+![Agregando nombres](assets/agregando-nombres.png)  
+
+### 2️⃣ Lista de participantes  
+![Lista de participantes](assets/lista-participantes.png)  
+
+### 3️⃣ Sorteo realizado  
+![Sorteo realizado](assets/sorteo-realizado.png)  
+
 
 ## 🛠️ Cómo ejecutar el proyecto
 1. Descarga los archivos o clona el repositorio:
